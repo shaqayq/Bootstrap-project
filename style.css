@@ -1,0 +1,47 @@
+
+.navbar {
+    margin-left: 155px;
+    margin-right: 155px;
+}
+
+.navbar-nav li{
+    padding: 32px;
+}
+
+.content{
+    background-image: url(/image/Headerbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    border-bottom-left-radius:30px ;
+}
+
+.d-flex {
+    width:920px;
+    margin-left: 260px;
+}
+
+.h1 {
+    width: 306px;
+    margin-top: 177px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.contact-link {
+    text-decoration: none;
+}
+
+.social {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.social li {
+    padding: 5px;
+    font-size: 20px;
+    margin-right: 23px;
+}
