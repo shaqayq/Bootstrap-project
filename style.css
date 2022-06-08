@@ -8,7 +8,7 @@
 }
 
 .content {
-  background-image: url(image/Headerbg.png);
+  background-image: url(/image/Headerbg.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 800px;
@@ -44,44 +44,8 @@
   font-size: 20px;
   margin-right: 23px;
 }
-.img {
-  width: 60%;
-  margin: 24px;
-}
 
-.row {
-  flex-direction: column;
-  padding: 100px;
-  width: 1000px;
-}
-
-.card-body {
-  width: ;
-}
-
-.card {
-  flex-direction: row;
-  width: 1000px;
-}
-
-.bg-primary {
-  background-color: #fff;
-}
-
-.cardinfo {
-  display: flex;
-  flex-direction: row;
-  list-style-type: none;
-  padding-left: 0;
-  margin-right: 5px;
-}
-
-.cardinfo img {
-  width: 5px;
-  height: 5px;
-}
-
-work {
+.work {
   margin-left: 203px;
   margin-top: 181px;
 }
@@ -119,4 +83,12 @@ work {
 .lang li {
   background-color: #ebebff;
   margin-right: 12px;
+}
+
+.about-title {
+  width: 100px;
+}
+
+.about-paragraph {
+  font-size: 19px;
 }
