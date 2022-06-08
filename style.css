@@ -75,7 +75,48 @@
   padding-left: 0;
   margin-right: 5px;
 }
+
 .cardinfo img {
   width: 5px;
   height: 5px;
+}
+
+work {
+  margin-left: 203px;
+  margin-top: 181px;
+}
+
+.card {
+  margin-bottom: 128px;
+  height: 350px;
+}
+
+.card .d-flex {
+  margin-left: 85px;
+}
+
+.work-img {
+  margin: 37px;
+}
+
+.work-paragraph {
+  font-size: 18px;
+}
+
+.work-title {
+  margin-top: 26px;
+}
+
+.list-group li {
+  border: none;
+  padding-left: 0;
+}
+
+.lang {
+  margin-bottom: 34px;
+}
+
+.lang li {
+  background-color: #ebebff;
+  margin-right: 12px;
 }
