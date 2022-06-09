@@ -1,3 +1,22 @@
+.contact {
+  background-image: url(image/contactformbackgroundshapes.png);
+  background-color: #6070ff;
+  background-size: cover;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 150px;
+  border-top-left-radius: 12%;
+  padding-bottom: 30px;
+}
+.contact button {
+  color: #6070ff;
+  background-color: #fff;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
 
 @media screen and (max-width: 357px) {
   .content .container {
